@@ -11,3 +11,8 @@ h1 {
 body {
   background-color: #DEDEDE
 }
+
+.fb:hover {
+  border-color: grey;
+  border-radius: 50%;
+}
