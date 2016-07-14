@@ -20,7 +20,10 @@ body {
 #mydiv {
   background-color: lightblue;
   width: 200px;
-  border: 25px solid green;
-  padding: 25px
-  margin: 25px;
+  border: 10px solid green;
+  padding: 10px
+  margin: 10px;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
