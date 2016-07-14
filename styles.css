@@ -16,3 +16,11 @@ body {
   border-color: grey;
   border-radius: 50%;
 }
+
+#mydiv {
+  background-color: lightblue;
+  width: 200px;
+  border: 25px solid green;
+  padding: 25px
+  margin: 25px;
+}
